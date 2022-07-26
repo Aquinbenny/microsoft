@@ -1,0 +1,810 @@
+*
+{
+   margin: 0px;
+   border:0px;
+}
+
+.first{
+   display: flex;
+  flex-direction: row;
+  justify-content: space-between; 
+}
+.front1
+{
+   display: flex;
+   flex-direction: row; 
+} 
+.front2{
+   display: flex;
+   flex-direction: row;  
+}
+.img1{
+  width: 89px;
+  height: 26px;
+  padding-top: 7px;
+  padding-left: 71px; 
+}
+.char1{
+   width: 95px;
+   margin-top: 11px;
+   margin-left: 20px;
+   font-size: 14px;
+}
+.char2
+{
+   margin-top: 11px;
+   margin-left: 5px;
+   font-size: 14px;
+
+}
+.char3{
+   margin-top: 11px;
+   margin-left: 13px;
+   font-size: 14px;
+}
+.char4{
+   margin-top: 11px;
+   margin-left: 25px;
+   font-size: 14px;
+}
+.char5{
+   margin-top: 11px;
+   margin-left: 20px;
+   font-size: 14px;
+}
+.char6
+{
+   margin-top: 11px;
+   margin-left: 20px;
+   font-size: 14px;
+}
+.char7
+{
+  margin-top: 11px; 
+  margin-right:120px;
+  font-size:16px;
+}
+.second{
+  background-color: aqua;
+  width: 100%;
+  height: 550px; 
+  display: flex;
+  flex-direction: row;
+
+}
+.back
+{
+background-color: #f2f2f2;
+width:500px;
+height: 550px;
+}
+.img2
+{
+ background-image: url(one.jpg); 
+ width:900px;
+ height: 550px; 
+}
+.char8{
+  padding-top: 183px;
+  padding-left: 100px;
+  font-size:42px; 
+}
+.char9
+{
+   padding-top: 15px;
+   padding-left: 96px;
+   font-size: 17px;
+}
+.but1
+{
+ margin-top: 16px; 
+ margin-left: 97px; 
+ padding-top: 8px;
+ padding-bottom: 8px;
+ padding-left: 12px;
+ padding-right: 12px;
+ background-color: blue;
+ color: white;
+ border: 0px;
+}
+.char10
+{
+  padding-top: 11px; 
+  padding-left:113px ;
+  font-size: 16px;
+}
+.third
+{
+   background-color:white;
+   width: 100%;
+   height: 250px;
+   display: flex;
+  flex-direction: row;
+}
+.sym1
+{
+  width: 47px; 
+  height: 44px;
+  padding-top: 102px; 
+  padding-left: 310px;
+}
+.name
+{
+  margin-top: 6px; 
+  margin-left: 238px;
+  font-size: 18px;
+}
+.sym2
+{
+   width: 47px; 
+  height: 44px;
+  padding-top: 103px; 
+  padding-left: 90px;
+}
+.name2
+{
+   margin-top: 6px; 
+   margin-left: 38px;
+   font-size: 18px;
+}
+.sym3
+{
+   width: 47px; 
+  height: 44px;
+  padding-top: 103px; 
+  padding-left: 90px; 
+}
+.name3{
+   margin-top: 6px; 
+   margin-left: 56px;
+   font-size: 18px;
+}
+.sym4
+{
+   width: 47px; 
+   height: 44px;
+   padding-top: 102px; 
+   padding-left: 70px;  
+}
+.name4
+{
+   margin-top: 6px; 
+   margin-left: 43px;
+   font-size: 18px; 
+}
+.fourth
+{
+width: 100%;
+height: 500px;
+background-color:white;
+display: flex;
+flex-direction: row;
+
+}
+.lap1
+{
+ width: 272px;
+ height: 169px;
+ 
+ padding-left: 62px; 
+}
+
+.surf1{
+   padding-top: 31px;
+   padding-left: 88px;
+   font-size: 26px;
+}
+.char11{
+   padding-top: 15px;
+   padding-left: 90px;
+   font-size: 16px;
+
+}
+.learn
+{
+   padding-top: 14px;
+   padding-left: 90px;
+   font-size: 16px;
+}
+.lap2
+{
+   width: 272px;
+   height: 169px;
+   padding-left:25px;  
+}
+.surf2
+{
+   padding-top: 31px;
+   padding-left: 54px;
+   font-size: 26px;  
+}
+.char12
+{
+   padding-top: 15px;
+   padding-left: 53px;
+   font-size: 16px;
+ 
+}
+.shop
+{
+   padding-top: 14px;
+   padding-left: 55px;
+   font-size: 16px; 
+}
+.lap3
+{
+   width: 272px;
+   height: 169px;
+   padding-left:25px;  
+} 
+.surf3
+{
+   padding-top: 31px;
+   padding-left: 54px;
+   font-size: 26px;  
+}
+.char13
+{
+   padding-top: 15px;
+   padding-left: 53px;
+   font-size: 16px;
+} 
+.join
+{
+   padding-top: 14px;
+   padding-left: 55px;
+   font-size: 16px;  
+}
+.lap4
+{
+   width: 272px;
+   height: 169px;
+   padding-left:25px;
+}
+.surf4
+{
+   padding-top: 31px;
+   padding-left: 54px;
+   font-size: 26px;   
+}
+.char14
+{
+   padding-top: 15px;
+   padding-left: 53px;
+   font-size: 16px; 
+}
+.see
+{
+   padding-top: 14px;
+   padding-left: 55px;
+   font-size: 16px;    
+}
+.five
+{
+  width: 100%;
+  height:550px ;
+  background-color:white; 
+  display: flex;
+  flex-direction: row;
+}
+.anna
+{
+  width:1113px;
+  margin-left: 81px; 
+  height: 550px;
+  background-image: url("six.jpg");
+}
+.white
+{
+ width:300px; 
+ height:276px; 
+ background-color: white;
+ margin-top: 174px;
+ margin-left: 50px;
+}
+.micro
+{
+ padding-top:78px;
+ padding-left: 65px;
+ font-size: 25px;  
+}
+.world
+{
+   padding-top:9px;
+   padding-left: 53px;
+   font-size:13px;   
+}
+.but4
+{
+  margin-top: 15px;
+  margin-left: 66px;
+  padding-top:7px;
+  padding-bottom: 7px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 13px; 
+  background-color: blue;
+  color: white;
+  border: 0px;
+}
+.seve
+{
+   width: 100%;
+   height: 500px;
+   background-color:white;
+   display: flex;
+   flex-direction: row;
+   margin-top: 96px;
+   
+
+}
+.for{
+
+   padding-left: 62px;
+   font-size: 25px;
+}
+.hand{
+   width: 272px;
+   height: 169px;
+   padding-top: 19px;
+   padding-left: 55px;
+}
+.surfl
+{
+  padding-top:18px ;
+  padding-left: 50px;
+  font-size: 25px; 
+}
+.char15
+{
+   padding-top:9px ;
+  padding-left: 50px;
+  font-size: 16px; 
+}
+.lea{
+   padding-top: 15px;
+   padding-left: 50px;
+   font-size: 16px;
+}
+.blue
+{
+   padding-top: 50px;
+   width: 272px;
+   height: 169px;
+   padding-left:25px  
+}
+.getit
+{
+   padding-top: 14px;
+   padding-left: 23px;
+   font-size: 26px;    
+}
+.char16
+{
+   padding-top:9px ;
+  padding-left: 23px;
+  font-size: 16px; 
+}
+.signup
+{
+   padding-top: 14px;
+   padding-left: 23px;
+   font-size: 16px; 
+}
+.nine{
+   padding-top: 50px;
+   width: 272px;
+   height: 169px;
+   padding-left:25px  
+}
+.mic{
+   padding-top: 14px;
+   padding-left: 23px;
+   font-size: 26px;    
+}
+.char17
+{
+   padding-top:9px ;
+  padding-left: 23px;
+  font-size: 16px; 
+}
+.shopup
+{
+   padding-top: 14px;
+   padding-left: 23px;
+   font-size: 16px; 
+}
+.ten{
+   padding-top: 50px;
+   width: 272px;
+   height: 169px;
+   padding-left:25px  
+}
+.thr{
+   padding-top: 14px;
+   padding-left: 23px;
+   font-size: 26px;    
+}
+.char18
+{
+   padding-top:9px ;
+  padding-left: 23px;
+  font-size: 16px; 
+}
+.ln{
+   padding-top: 14px;
+   padding-left: 23px;
+   font-size: 16px; 
+}
+.last
+{
+   
+   background-color:white;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between; 
+}
+.las
+{
+   display: flex;
+   flex-direction: row;  
+}
+.la{
+
+display: flex;
+   flex-direction: row; 
+}
+.char19
+{
+   padding-left: 45px;
+   font-size: 18px;
+}
+.face
+{
+   padding-left: 16px;
+   
+}
+.twi
+{
+   padding-left: 18px;
+}
+.you{
+   padding-left: 20px; 
+}
+.lastbut
+{
+   margin-right: 16px;
+   padding-top: 12px;
+   padding-bottom: 12px;
+   padding-left: 12px;
+   padding-right:12px;
+   font-size: 15px;
+   background-color:#f2f2f2;
+   color:black;
+   border: 0px;
+}
+.final{
+   width: 100%;
+   height: 350px;
+   background-color:white;
+   display: flex;
+   flex-direction: row;
+   margin-top: 55px;
+
+}
+.hell{
+   padding-top: 37px;
+   padding-left: 38px;
+   font-size: 18px;
+}
+.m{
+   padding-top: 15px;
+   padding-left: 41px;
+   font-size: 13px;
+}
+.su{
+   padding-top: 15px;
+   padding-left: 41px;
+   font-size: 13px;
+}
+.s{
+   padding-top: 15px;
+   padding-left: 41px;
+   font-size: 13px;
+}
+.sur
+{
+   padding-top: 15px;
+   padding-left: 41px;
+   font-size: 13px;
+}
+.wins
+{
+   padding-top: 15px;
+   padding-left: 41px;
+   font-size: 13px;
+}
+.mac{
+   padding-top: 37px;
+   padding-left: 100px;
+   font-size: 18px;
+}
+.acc{
+   padding-top: 15px;
+   padding-left: 100px;
+   font-size: 13px;
+}
+.D{
+   padding-top: 15px;
+   padding-left: 100px;
+   font-size: 13px;
+
+}
+.ma{
+   padding-top: 15px;
+   padding-left: 100px;
+   font-size: 13px;
+}
+.r{
+   padding-top: 15px;
+   padding-left: 100px;
+   font-size: 13px;
+}
+.Or{
+   padding-top: 15px;
+   padding-left: 100px;
+   font-size: 13px;
+}
+.edu1{
+   padding-top: 37px;
+   padding-left: 38px;
+   font-size: 18px;
+}
+.inb
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.Dev
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.teams
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.tion
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.of{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.Educt
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.deals
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.az
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.us{
+   padding-top: 37px;
+   padding-left: 38px;
+   font-size: 18px;
+}
+.cloud
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px; 
+}
+.sec1
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.azu
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.dyn
+{
+      
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+
+.m1{
+
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+
+
+.m3{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+
+}
+.Developer
+{
+   padding-top: 37px;
+   padding-left: 38px;
+   font-size: 18px; 
+}
+.cen
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px; 
+}
+.doce
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.m4
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.m5
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.place
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.ap
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.m6
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.vis
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.company
+{
+   padding-top: 37px;
+   padding-left: 38px;
+   font-size: 18px; 
+}
+.Car{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px; 
+}
+.About
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.new1
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.pir
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.inv
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.ty
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.Sust
+{
+   padding-top: 15px;
+   padding-left: 38px;
+   font-size: 13px;
+}
+.earth1
+{
+   height:30px;
+   background-color:white;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;  
+}
+.earth2
+{
+   display: flex;
+   flex-direction: row; 
+
+}
+.earth3
+{
+   display: flex;
+   flex-direction: row;  
+}
+.who
+{
+
+   padding-left: 30px;
+   font-size: 13px;
+}
+.tac
+{
+   padding-right: 50px;
+   font-size: 13px;
+}
+.vy
+{
+   padding-right: 50px;
+   font-size: 13px; 
+}
+.of1{
+   padding-right: 50px;
+   font-size: 13px;
+}
+.trade
+{
+   padding-right: 50px;
+   font-size: 13px;
+}
+.ads{
+   padding-right: 50px;
+   font-size: 13px;
+
+}
+.mcla
+{
+   padding-right: 50px;
+   font-size: 13px;
+  
+}
